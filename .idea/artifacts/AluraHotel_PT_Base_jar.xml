@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AluraHotel-PT-Base:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/AluraHotel_PT_Base_jar</output-path>
+    <root id="archive" name="AluraHotel-PT-Base.jar">
+      <element id="module-output" name="AluraHotel-PT-Base" />
+      <element id="library" level="module" name="mysql-connector-java-8.0.17.jar" module-name="AluraHotel-PT-Base" />
+      <element id="library" level="module" name="jcalendar-1.4.jar" module-name="AluraHotel-PT-Base" />
+      <element id="library" level="module" name="c3p0-0.9.5.4.jar" module-name="AluraHotel-PT-Base" />
+      <element id="library" level="module" name="mchange-commons-java-0.2.16.jar" module-name="AluraHotel-PT-Base" />
+    </root>
+  </artifact>
+</component>
